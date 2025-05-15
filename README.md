@@ -36,11 +36,12 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 
-## Onde me encontrarhttps://www.linkedin.com/in/tiagoeleuterioreis/
+## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoeleuterioreis)](tiagoeleuterioreis)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-tiagoeleuterioreis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoeleuterioreis/)](https://www.linkedin.com/in/tiagoeleuterioreis/)
+[![GitHub](https://img.shields.io/github/followers/tiagoeleuterioreis?label=follow&style=social)](https://github.com/tiagoeleuterioreis) 
+
+
 <!--
 **tiagoeleuterioreis/tiagoeleuterioreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
